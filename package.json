@@ -1,0 +1,29 @@
+{
+  "name": "wy-plugin",
+  "version": "1.0.0",
+  "description": "网鱼业务插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wypeggyteam/wy-plugin.git"
+  },
+  "keywords": [],
+  "author": "xujianong",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-istanbul": "^5.0.1",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "chai": "^4.2.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0",
+    "mochawesome": "^3.0.3",
+    "should": "^13.2.3",
+    "sinon": "^6.3.4"
+  }
+}
